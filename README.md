@@ -1,2 +1,1 @@
-# scripts
-Convert JSON to .env Format
+# Useful scripts
